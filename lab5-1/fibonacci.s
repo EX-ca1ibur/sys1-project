@@ -1,0 +1,4 @@
+.text
+.globl  fibonacci
+
+fibonacci:

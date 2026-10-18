@@ -1,0 +1,47 @@
+# ---- 课程框架与生成物（本仓库只存 submit 代码，不含这些）----
+build/
+obj_dir/
+*.o
+*.a
+*.d
+*.vcd
+*.sdf
+*.dcp
+*.bit
+*.log
+*.jou
+*.str
+*.wdb
+*.sdb
+*.pb
+*.reloc
+*.rtti
+*.dbg
+*.wpc
+*.wdf
+*.lpr
+*.xpr
+*.spice
+*.edn
+*.edf
+.Xil/
+*.cache/
+*.hw/
+*.ip_user_files/
+*.sim/
+
+# ---- 报告等课程提交材料 ----
+*.docx
+
+# ---- 编辑器 / 工具配置 ----
+.claude/
+.vscode/
+.idea/
+*.swp
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# ---- 语言运行时 ----
+__pycache__/
+node_modules/
